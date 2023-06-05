@@ -1,10 +1,10 @@
 # 🚀 about
 
-- 🤔 Carpe Diem
-- 💬 Sot the lot of you.I do what I like~
-- 📫 holic-x@foxmail.com
 
-- 🚀 [一人の境](https://blog.holic-x.com/wv-blog)
+- 💬 Sot the lot of you.I do what I like~
+- 📫 qasmikshah47@gmail.com
+
+- 🚀 https://paloxzz.netlify.app/
 
 
 
@@ -38,15 +38,7 @@
 <!-- START_SECTION:waka -->
 <!-- END_SECTION:waka -->
 
-# 💻Recent Blog
 
-<!-- BLOG-POST-LIST:START -->
-- [asciinema-linux终端回放记录工具](https://blog.holic-x.com/wv-blog/post/8f2c237d.html)
-- [CDN加速](https://blog.holic-x.com/wv-blog/post/b9906fe8.html)
-- [Office开发者计划-永久白嫖Office365](https://blog.holic-x.com/wv-blog/post/d33a9143.html)
-- [网站多线部署](https://blog.holic-x.com/wv-blog/post/50b43c4a.html)
-- [hexo-butterfly-首页改造](https://blog.holic-x.com/wv-blog/post/c9f9cd5d.html)
-<!-- BLOG-POST-LIST:END -->
 
 
 
